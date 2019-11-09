@@ -1,20 +1,17 @@
 # FGV_Intro_DS
-Introduction to Data Science @ FGV
-
-Instructor: [Renato Rocha Souza](http://emap.fgv.br/corpo-docente/renato-rocha-souza)
 Introdução à Data Science @ FGV
 
-Instrutor: Renato Rocha Souza
+Instrutor: [Renato Rocha Souza](http://emap.fgv.br/corpo-docente/renato-rocha-souza)
 
 Este é o repositório de códigos da "Introdução à Ciência de Dados"
 
 Esta aula é sobre o processo de ciência de dados, no qual procuramos obter previsões e insights úteis a partir dos dados. Por meio de exemplos do mundo real e trechos de código, apresentamos métodos para:
 
-     separação, raspagem, amostragem e limpeza de dados para obter um conjunto de dados informativo e gerenciável;
-     armazenamento e gerenciamento de dados para poder acessar dados (mesmo que big data);
-     análise exploratória de dados (EDA) para gerar hipóteses e intuição sobre os dados;
-     previsão baseada em ferramentas de aprendizagem estatística;
-     comunicação de resultados por meio de visualização, histórias e resumos interpretáveis
++ separação, raspagem, amostragem e limpeza de dados para obter um conjunto de dados informativo e gerenciável;
++ armazenamento e gerenciamento de dados para poder acessar dados (mesmo que big data);
++ análise exploratória de dados (EDA) para gerar hipóteses e intuição sobre os dados;
++ previsão baseada em ferramentas de aprendizagem estatística;
++ comunicação de resultados por meio de visualização, histórias e resumos interpretáveis
      
      
 This is the repository of code for the "Introduction to Data Science"

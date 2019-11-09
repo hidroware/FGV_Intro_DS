@@ -7,45 +7,33 @@ Este é o repositório de códigos da "Introdução à Ciência de Dados"
 
 Esta aula é sobre o processo de ciência de dados, no qual procuramos obter previsões e insights úteis a partir dos dados. Por meio de exemplos do mundo real e trechos de código, apresentamos métodos para:
 
-+ separação, raspagem, amostragem e limpeza de dados para obter um conjunto de dados informativo e gerenciável;
++ transformação, aquisição, amostragem e limpeza de dados para obter um conjunto de dados informativo e gerenciável;
 + armazenamento e gerenciamento de dados para poder acessar dados (mesmo que big data);
 + análise exploratória de dados (EDA) para gerar hipóteses e intuição sobre os dados;
 + previsão baseada em ferramentas de aprendizagem estatística;
 + comunicação de resultados por meio de visualização, histórias e resumos interpretáveis
      
-     
-This is the repository of code for the "Introduction to Data Science"
+ Ementa detalhada:
 
-This class is about the Data Science process, in which we seek to gain useful predictions and insights from data.
-Through real-world examples and code snippets, we introduce methods for:
-
-+ data munging, scraping, sampling andcleaning in order to get an informative, manageable data set;
-+ data storage and management in order to be able to access data (even if big data);
-+ exploratory data analysis (EDA) to generate hypotheses and intuition about the data;
-+ prediction based on statistical learning tools;
-+ communication of results through visualization, stories, and interpretable summaries
-
-Detailed Syllabus:
-
-+ Propaedeutic [ref1](https://medium.com/technomancy/the-math-required-for-machine-learning-af0d90db3903), [ref2](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b), [ref3](https://towardsdatascience.com/how-much-maths-does-an-it-engineer-need-to-learn-to-get-into-data-science-machine-learning-7d6a42f79516), [ref4](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd), [ref5](https://becominghuman.ai/a-short-machine-learning-explanation-in-terms-of-linear-algebra-probability-and-calculus-f7660aa4b06c), [ref6](https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/)  
-+ Related Courses [cs109](https://github.com/cs109/a-2017), [cs229](http://cs229.stanford.edu/), [ML Andrew Ng](https://www.coursera.org/learn/machine-learning)
-+ Data Science Concepts [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [ref4](https://medium.com/trainingcenter/data-science-um-panorama-geral-87edbbd35885), [book1](http://www.datascienceassn.org/sites/default/files/Foundations%20of%20Data%20Science%20-%20Textbook.pdf), [book2](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book3](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
-  + Data Scientists [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [ref3](https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
-  + Statistics [book1](http://www-bcf.usc.edu/~gareth/ISL/), [book2](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [ref2](https://towardsdatascience.com/inferential-statistics-basics-294512909a33), [ref3](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7), [ref4](https://towardsdatascience.com/applying-statistics-in-python-part-i-6ea73363b571)  
++ Introdução [ref1](https://medium.com/technomancy/the-math-required-for-machine-learning-af0d90db3903), [ref2](https://medium.com/technomancy/the-blunt-guide-to-mathematically-rigorous-machine-learning-c53263d45c7b), [ref3](https://towardsdatascience.com/how-much-maths-does-an-it-engineer-need-to-learn-to-get-into-data-science-machine-learning-7d6a42f79516), [ref4](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd), [ref5](https://becominghuman.ai/a-short-machine-learning-explanation-in-terms-of-linear-algebra-probability-and-calculus-f7660aa4b06c), [ref6](https://www.analyticsvidhya.com/blog/2019/10/mathematics-behind-machine-learning/)  
++ Cursos relacionados [cs109](https://github.com/cs109/a-2017), [cs229](http://cs229.stanford.edu/), [ML Andrew Ng](https://www.coursera.org/learn/machine-learning)
++ Conceitos de Ciência dos Dados [ref1](https://towardsdatascience.com/the-what-where-and-how-of-data-science-6dda1af98671), [ref2](https://docs.google.com/presentation/d/1ysQroWAcUJBizt00v7q-Ss1lalJlojZBlRInLQTDJV8/), [ref3](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec), [ref4](https://medium.com/trainingcenter/data-science-um-panorama-geral-87edbbd35885), [book1](http://www.datascienceassn.org/sites/default/files/Foundations%20of%20Data%20Science%20-%20Textbook.pdf), [book2](http://proquest.safaribooksonline.com/book/databases/9781449363871), [book3](https://www.amazon.com/Applied-Predictive-Analytics-Principles-Professional/dp/1118727967)
+  + Cientista de dados [ref1](https://towardsdatascience.com/data-scientist-from-good-to-great-5e6aed447b69), [re2](https://towardsdatascience.com/data-scientist-from-good-to-great-part-2-614f1ed2aaeb), [ref3](https://towardsdatascience.com/whats-the-secret-sauce-to-transforming-into-a-unicorn-in-data-science-94082b01c39d), [learning path](https://trainings.analyticsvidhya.com/courses/course-v1:AnalyticsVidhya+Python-Final-Jan-Feb+Python-Session-1/about)
+  + Estatísticas [book1](http://www-bcf.usc.edu/~gareth/ISL/), [book2](http://greenteapress.com/thinkstats2/html/index.html), [ref1](https://towardsdatascience.com/introduction-to-statistics-e9d72d818745), [ref2](https://towardsdatascience.com/inferential-statistics-basics-294512909a33), [ref3](https://medium.com/cracking-the-data-science-interview/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7), [ref4](https://towardsdatascience.com/applying-statistics-in-python-part-i-6ea73363b571)  
   + AI [ref1](https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning)
-  + Machine Learning [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1), [ref2](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471), [book](https://cs.nyu.edu/~mohri/mlbook/)  
-  + Business Intelligence [ref1](https://en.wikipedia.org/wiki/Business_intelligence)
-+ Data Science Process [ref1](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420), [ref2](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)  
-  + Data Formats [ref1](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
-  + Data Acquisition [ref1](http://metah.ch/blog/2014/09/introduction-to-machine-learning-from-data-acquisition-to-a-production-service-2/)  
-  + Data Engineering [ref1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [ref2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [ref3](https://becominghuman.ai/effective-data-preprocessing-and-feature-engineering-452d3a948262)  
+  + Aprendizado automático [ref1](https://medium.com/@lizzie_turner/lets-talk-about-machine-learning-ddca914e9dd1), [ref2](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471), [book](https://cs.nyu.edu/~mohri/mlbook/)  
+  + Inteligência de negócios [ref1](https://en.wikipedia.org/wiki/Business_intelligence)
++ Processos em Ciência dos Dados [ref1](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420), [ref2](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)  
+  + Formato d edados [ref1](https://en.wikipedia.org/wiki/Comparison_of_data_serialization_formats)
+  + Aquisição de dados [ref1](http://metah.ch/blog/2014/09/introduction-to-machine-learning-from-data-acquisition-to-a-production-service-2/)  
+  + Engenahria de dados [ref1](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603), [ref2](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7), [ref3](https://becominghuman.ai/effective-data-preprocessing-and-feature-engineering-452d3a948262)  
     + Handling Missing Values [ref1](http://www.ritchieng.com/pandas-handling-missing-values/)
     + Changing Datatypes [ref1](http://www.ritchieng.com/pandas-changing-datatype/)
-  + Exploratory Data Analysis [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [book](oreilly.com/catalog/9780596802363/)  
-  + Data Visualization [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
+  + Análsie exploratória de dados [ref1](http://people.duke.edu/~ccc14/sta-663-2017/#), [book](oreilly.com/catalog/9780596802363/)  
+  + Visualização de dados [ref1](https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-with-code-a2284bae952f), [ref2](https://www.linuxlinks.com/best-free-python-visualization-packages/)  
   
-+ Model Selection [ref1](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
-  + Feature Engineering [ref1](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [ref2](https://towardsdatascience.com/using-machine-learning-algorithms-d47711ff4732), [book](http://www.feat.engineering/index.html)  
++ Seleção de modelos [ref1](https://towardsdatascience.com/data-science-simplified-part-6-model-selection-methods-2511cbdf7cb0)
+  + Engenharia de recursos  [ref1](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/), [ref2](https://towardsdatascience.com/using-machine-learning-algorithms-d47711ff4732), [book](http://www.feat.engineering/index.html)  
     + Automated Feature Engineering  
       [featuretools](https://www.featuretools.com/)
   + Feature Selection [ref1](https://towardsdatascience.com/the-5-feature-selection-algorithms-every-data-scientist-need-to-know-3a6b566efd2), [ref2](http://scikit-learn.org/stable/modules/feature_selection.html), [ref3](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)  
